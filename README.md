@@ -1,10 +1,3 @@
-<div align='center' id='top'>
-<img src='./.github/projeto_decoder.gif' alt='app_name' />
-
-&#xa0;
-
-</div>
-
 <h1 align='center'>Decoder</h1>
 
 <p align='center'>
