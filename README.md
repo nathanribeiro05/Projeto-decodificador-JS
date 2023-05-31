@@ -9,7 +9,7 @@
 
 <p align='center'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanribeiro05)](https://github.com/nathanribeiro05/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanribeiro05&size_weight=0.5&count_weight=0.5)](https://github.com/nathanribeiro05/github-readme-stats)
 
 <!-- <img alt='Github issues' src='https://img.shields.io/github/issues/{{github}}/{{repository}}?color=56BEB8' /> -->
 
