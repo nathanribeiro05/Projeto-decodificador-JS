@@ -9,11 +9,7 @@
 
 <p align='center'>
 
-<img alt='Principal linguagem do projeto' src='https://img.shields.io/github/languages/top/nathanribeiro05/decodificador-de-texto?color=56BEB8'>
-
-<img alt='Quantidade de linguagens utilizadas' src='https://img.shields.io/github/languages/count/nathanribeiro05/decodificador-de-texto?color=56BEB8'>
-
-<img alt='Tamanho do repositório' src='https://img.shields.io/github/repo-size/nathanribeiro05/decodificador-de-texto?color=56BEB8'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanribeiro05)](https://github.com/nathanribeiro05/github-readme-stats)
 
 <!-- <img alt='Github issues' src='https://img.shields.io/github/issues/{{github}}/{{repository}}?color=56BEB8' /> -->
 
