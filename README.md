@@ -8,17 +8,6 @@
 <h1 align='center'>Decoder</h1>
 
 <p align='center'>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanribeiro05&size_weight=0.5&count_weight=0.5)](https://github.com/nathanribeiro05/github-readme-stats)
-
-<!-- <img alt='Github issues' src='https://img.shields.io/github/issues/{{github}}/{{repository}}?color=56BEB8' /> -->
-
-<!-- <img alt='Github forks' src='https://img.shields.io/github/forks/{{github}}/{{repository}}?color=56BEB8' /> -->
-
-<!-- <img alt='Github stars' src='https://img.shields.io/github/stars/{{github}}/{{repository}}?color=56BEB8' /> -->
-</p>
-
-<p align='center'>
 <a href='#dart-sobre'>Sobre</a> &#xa0; | &#xa0;
 <a href='#sparkles-funcionalidades'>Funcionalidades</a> &#xa0; | &#xa0;
 <a href='https://github.com/nathanribeiro05' target='_blank'>Autor</a>
