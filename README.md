@@ -41,7 +41,8 @@ Feito com :heart: por <a href='https://github.com/nathanribeiro05' target='_blan
 
 <h3>BADGE recebida referente ao desafio proposto concluído.</h3>
 <p align="center">
-  <img alt="Badge" src="[https://i.imgur.com/sO2IH2O.png](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211139Prancheta_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station)https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211139Prancheta_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station" width="50%">
+  <img alt="Badge" src="![decoderjs](https://github.com/nathanribeiro05/Projeto-decodificador-JS/assets/127134375/33237ea7-f8fb-4b9f-ba27-f521d59323b5)
+" width="50%">
 </p>
 
 <a href='#top'>Voltar para o topo</a>
